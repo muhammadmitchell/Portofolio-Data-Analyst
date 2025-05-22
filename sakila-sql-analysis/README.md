@@ -33,8 +33,7 @@ This project includes SQL practice queries using the [Sakila sample database](ht
 
 ---
 
-## 📸 Screenshots (Optional)
-Add screenshots or sample query outputs if needed.
+## 📸 Screenshots (Soon)
 
 ---
 

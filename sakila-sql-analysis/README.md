@@ -8,12 +8,12 @@ This project includes SQL practice queries using the [Sakila sample database](ht
 
 ## 🧠 Key Topics Practiced
 - Filtering data with `WHERE` and `LIKE`
-- Work with "AND" / "OR" / "IN" operators
+- Work with `AND` / `OR` / `IN` operators
 - Aggregation using `GROUP BY`, `COUNT`, `DISTINCT`
 - Table joins (`INNER JOIN`) between `customer`, `rental`, `film`, `category`, etc.
 - Using functions like `DATE()`, `CONCAT()`
 - Sorting and limiting results
-- Creating Common Table Expressions (CTE)
+- Creating `Common Table Expressions (CTE)`
 - Business Analysis and Decision Making with SQL
 
 ## 📊 Example Questions Answered

@@ -3,8 +3,8 @@
 This project includes SQL practice queries using the [Sakila sample database](https://dev.mysql.com/doc/sakila/en/), which simulates a DVD rental store. The goal is to analyze customer behavior, film inventory, sales and rental patterns using structured queries.
 
 ## 📁 File Included
-- `latihan.sql` ([sakila-sql-analysis/latihan.sql](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/4c3561e70224f9e3e6c6470544e49bf6b1ce7b82/sakila-sql-analysis/latihan.sql)) — contains multiple queries to explore and analyze data in the Sakila database.
-- `latihan.mwb` (https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/4c3561e70224f9e3e6c6470544e49bf6b1ce7b82/sakila-sql-analysis/latihan.mwb) —  an official graphical tool for designing, managing, and visualizing MySQL databases.
+- `latihan.sql` — contains multiple queries to explore and analyze data in the Sakila database.
+- `latihan.mwb` —  an official graphical tool for designing, managing, and visualizing MySQL databases.
 
 ## 🧠 Key Topics Practiced
 - Filtering data with `WHERE` and `LIKE`

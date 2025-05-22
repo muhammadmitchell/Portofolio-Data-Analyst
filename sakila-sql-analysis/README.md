@@ -42,5 +42,4 @@ This practice helps build a solid foundation for SQL querying, especially for Da
 - Customer analytics
 - Inventory trends
 - Rental performance monitoring
-- 
 

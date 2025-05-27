@@ -35,6 +35,7 @@ This project aims to analyze the [Sakila sample database](https://dev.mysql.com/
 ---
 
 ## 📸 Screenshots (Soon)
+![image](https://github.com/user-attachments/assets/3515b5a4-1afb-442b-aa2d-5b8e9888e837)
 
 ---
 

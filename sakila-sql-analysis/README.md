@@ -5,7 +5,6 @@ This project aims to analyze the [Sakila sample database](https://dev.mysql.com/
 ## 📁 File Included
 - [latihan.sql](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/2a113919aa65bb227bc0cd893b91fc9b662c2b7a/sakila-sql-analysis/latihan.sql) — contains multiple queries to explore and analyze data in the Sakila database.
 - [Diagram ER.png](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/544e4952102d2b9076a3196bce911c86e2ecef37/sakila-sql-analysis/Diagram%20ER.png) —  ER diagram of the Sakila database
-- `analysis-summary.md` — Summary insights from query results
 
 ## 🧠 Key Topics Practiced
 - Filtering data with `WHERE` and `LIKE`

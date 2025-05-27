@@ -4,7 +4,7 @@ This project aims to analyze the [Sakila sample database](https://dev.mysql.com/
 
 ## 📁 File Included
 - [latihan.sql](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/2a113919aa65bb227bc0cd893b91fc9b662c2b7a/sakila-sql-analysis/latihan.sql) — contains multiple queries to explore and analyze data in the Sakila database.
-- [latihan.mwb](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/585e27ed9ee1b692d891956e854031806401ba2e/sakila-sql-analysis/latihan.mwb) —  an official graphical tool for designing, managing, and visualizing MySQL databases.
+- [sakila-er-diagram] —  ER diagram of the Sakila database
 - `analysis-summary.md` — Summary insights from query results
 
 ## 🧠 Key Topics Practiced

@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Mitchell Tri Octaviano Syaifullah
 
-🎓 Recent Informatics graduate from UPN Veteran Jakarta with hands-on experience in data analytics and dashboard reporting in the logistics industry.
+🎓 An Informatics, Computer Science graduate from UPN Veteran Jakarta with hands-on experience in data analytics and dashboard reporting in the logistics industry.
 
 🔍 Passionate about transforming complex datasets into actionable insights using tools like Python, SQL, Excel, and Looker Studio.
 

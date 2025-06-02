@@ -59,6 +59,13 @@ Sample from Table Customers
 
 Because the data is clean. there are no null values, format errors, data duplication, and data anomalies. so here are the data transformation steps:
 1. Converted the Date column type to Date because it comprises of date and time.
-2. Added a new column called financial year starts in July which analyzes sales
+2. Added a new column called financial year starts in July which analyzes year to date totals sales
+3. Create a second column that converts the date to the day of the week to see the daily trend
+4. Created a "Duration Bucket" column
+   - Under 10 mins
+   - 10 to 30 mins
+   - 30 to 60 mins
+   - 1 to 2 hours
+   
 
 

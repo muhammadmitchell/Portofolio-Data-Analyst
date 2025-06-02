@@ -44,8 +44,8 @@ Sample from Table Customers
 
 # Preprocessing Data
 
-
-
-
+Because the data is clean. there are no null values, format errors, data duplication, and data anomalies. so here are the data transformation steps:
+1. Converted the Date column type to Date because it comprises of date and time.
+2. Added a new column called financial year starts in July which analyzes sales
 
 

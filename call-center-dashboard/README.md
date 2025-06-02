@@ -7,22 +7,35 @@ This project presents an interactive **Call Centre Performance Dashboard** built
 # Question that guide the analysis
 
 1. **Key Metrics**
+   
    - Total number of calls
    - Total revenue & duration generated
    - Average caller ratings
    - Total happy callers
+     
 2. **Monthly Trend**
+   
    What is the monthly trend of calls in a year?
+   
 3. **Weekly Volume**
+   
    How do calls vary across the days of the week?
+   
 4. **Representative Contribution**
+   
    How many calls did each representative handle and
    how much revenue did they generate?
+   
 5. **Call by Customer Demographics**
+   
    Gender-based call count categorized by customer demographics?
+   
 6. **Rating Distribution**
+    
    How satisfied customer?
+   
 7. **Customer Revenue Analysis**
+    
    What is happening at each customer level across demographics for each rep?
 
 ---

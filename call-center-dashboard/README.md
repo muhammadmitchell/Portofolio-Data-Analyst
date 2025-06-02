@@ -34,7 +34,7 @@ I sourced the call center dataset from https://chandoo.org/wp/wp-content/uploads
 In this dataset, there are 2 tables, namely the calls and customer tables
 
 Sample from Table Calls
-![image](https://github.com/user-attachments/assets/4ab9c471-f4da-4671-9f2b-b2b128056782)
+![image](https://github.com/user-attachments/assets/ed50807a-03a5-43ec-9416-74061403402b)
 
 Sample from Table Customers
 
@@ -43,6 +43,7 @@ Sample from Table Customers
 ---
 
 # Preprocessing Data
+
 
 
 

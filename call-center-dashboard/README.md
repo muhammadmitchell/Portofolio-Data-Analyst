@@ -29,13 +29,22 @@ This project presents an interactive **Call Centre Performance Dashboard** built
 
 # Dataset Source
 
-I sourced the call center dataset from https://chandoo.org/wp/wp-content/uploads/2024/09/sample-data-excel-portfolio-project.xlsx
+I sourced the call center dataset from https://chandoo.org/wp/wp-content/uploads/2024/09/sample-data-pivots-blank.xlsx where the website module i learned about pivot table and chart. 
 
+In this dataset, there are 2 tables, namely the calls and customer tables
 
+Sample from Table Calls
+![image](https://github.com/user-attachments/assets/4ab9c471-f4da-4671-9f2b-b2b128056782)
+
+Sample from Table Customers
+
+![image](https://github.com/user-attachments/assets/d68a006c-7bc8-4ab1-8ffe-ffecb18cf3ea)
 
 ---
 
-# 
+# Preprocessing Data
+
+
 
 
 

@@ -4,6 +4,21 @@ This project presents an interactive **Call Centre Performance Dashboard** built
 
 ---
 
+# Dataset Source
+
+I sourced the call center dataset from https://chandoo.org/wp/wp-content/uploads/2024/09/sample-data-pivots-blank.xlsx where the website module i learned about pivot table and chart. 
+
+In this dataset, there are 2 tables, namely the calls and customer tables
+
+Sample from Table Calls
+![image](https://github.com/user-attachments/assets/ed50807a-03a5-43ec-9416-74061403402b)
+
+Sample from Table Customers
+
+![image](https://github.com/user-attachments/assets/b94a4bd6-8751-4dcf-aaa7-7be5ff418f9f)
+
+---
+
 # Question that guide the analysis
 
 1. **Key Metrics**
@@ -37,23 +52,6 @@ This project presents an interactive **Call Centre Performance Dashboard** built
 7. **Customer Revenue Analysis**
     
    What is happening at each customer level across demographics for each rep?
-
----
-
-# Dataset Source
-
-I sourced the call center dataset from https://chandoo.org/wp/wp-content/uploads/2024/09/sample-data-pivots-blank.xlsx where the website module i learned about pivot table and chart. 
-
-In this dataset, there are 2 tables, namely the calls and customer tables
-
-Sample from Table Calls
-![image](https://github.com/user-attachments/assets/ed50807a-03a5-43ec-9416-74061403402b)
-
-Sample from Table Customers
-
-![image](https://github.com/user-attachments/assets/b94a4bd6-8751-4dcf-aaa7-7be5ff418f9f)
-
-
 ---
 
 # Preprocessing Data
@@ -71,7 +69,6 @@ Because the data is clean. there are no null values, format errors, data duplica
 
    Below is what it looks like after preprocessing data
 ![image](https://github.com/user-attachments/assets/732c883f-a62b-4328-9b85-8a4e7b2e97e8)
-
 
 ---
 
@@ -194,6 +191,8 @@ Because the data is clean. there are no null values, format errors, data duplica
    - R02 in Cleveland is very weak → conduct a strategic review of sales approach and team performance in that region.
    
    Improve product targeting or marketing strategy for better balance.
+
+---
 
 # The Dashboard
 

@@ -181,7 +181,7 @@ Because the data is clean. there are no null values, format errors, data duplica
    - C0002: R01: $1,233, R02: $223, R03: $1,680
    - C0013: R01: $1,255, R02: $516, R03: $1, 874
    
-   This shows large inconsistencies between region performance within the same city, indicating a potential imbalance in strategy, product placement, or customer experience.
+      This shows large inconsistencies between region performance within the same city, indicating a potential imbalance in strategy, product placement, or customer experience.
 
    **Action:**
 
@@ -190,7 +190,7 @@ Because the data is clean. there are no null values, format errors, data duplica
    Example: 
    - R02 in Cleveland is very weak → conduct a strategic review of sales approach and team performance in that region.
    
-   Improve product targeting or marketing strategy for better balance.
+      Improve product targeting or marketing strategy for better balance.
 
 ---
 

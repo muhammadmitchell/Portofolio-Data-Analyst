@@ -35,7 +35,7 @@ Sample from Table Customers
 3. **Weekly Volume**
    
    How do calls vary across the days of the week?
-   
+
 4. **Representative Contribution**
    
    How many calls did each representative handle and
@@ -48,10 +48,11 @@ Sample from Table Customers
 6. **Rating Distribution**
     
    How satisfied customer?
-   
+
 7. **Customer Revenue Analysis**
     
    What is happening at each customer level across demographics for each rep?
+   
 ---
 
 # Preprocessing Data
@@ -74,9 +75,11 @@ Because the data is clean. there are no null values, format errors, data duplica
 
 # Data Exploration & Insight
 
+
 **1.** **Key metrics**
    
    ![image](https://github.com/user-attachments/assets/6ce05481-f0ae-4989-813a-7cf6efc4bac2)
+   
 
 **2.** **Monthly Trend**
 

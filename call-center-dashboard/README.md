@@ -198,7 +198,7 @@ Because the data is clean. there are no null values, format errors, data duplica
 
 ![Untitledvideo-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/91c6850c-a1ae-41e6-8b2d-8e80f4880560)
 
-For better experince, see the full file excel in [Call Centre Dashboard.xlsx]
+For better experince, see the full file excel in [Call Centre Dashboard.xlsx](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/f2a24756a510bd5e91fedf4edf21b4670622e595/call-center-dashboard/Call%20Centre%20Dashboard.xlsx)
 
 
    

@@ -4,7 +4,7 @@
 
 🎓 An Informatics, Computer Science graduate from UPN Veteran Jakarta with hands-on experience in data analytics and dashboard reporting in the logistics industry.
 
-🔍 Passionate about transforming complex datasets into actionable insights using tools like Python, SQL, Excel, and Looker Studio.
+🔍 Passionate about transforming complex datasets into actionable insights using tools like Python, SQL, Excel, and Power BI.
 
 📊 This portfolio highlights some of the data projects I've worked on, both personal and professional.
 

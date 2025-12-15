@@ -126,6 +126,7 @@ An interactive Power BI dashboard was built to visualize insights:
 ## 📬 Contact
 
 **LinkedIn:** linkedin.com/in/muhammadmitchell
+
 **Email:** mitchelmhmmd@gmail.com
 
 ---

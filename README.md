@@ -22,23 +22,23 @@
 
 ### 📞 Call Center Performance Dashboard
 > Interactive dashboard built in Excel to visualize key metrics like call volume, revenue, and customer satisfaction.  
-> **Tools**: Excel, Pivot Tables, Charts, Power Query 
-> **Link**: [`📁 call-center-dashboard`](./call-center-dashboard)
+- **Tools**: Excel, Pivot Tables, Charts, Power Query
+- **Link**: [`📁 call-center-dashboard`](./call-center-dashboard)
 
 ### 🛍️ Customer Shopping Behavior Analysis
 > Analyzes customer shopping patterns using transactional data to understand spending behavior, product preferences, customer segmentation, and the impact of subscriptions and discounts on revenue
-> **Tools**: Python(Pandas), Jupyter Notebook, SQL, MySQL, Power BI
-> **Link**: [`📁 customer-behavior-analysis-SQL-Python-Power BI`](./customer-behavior-analysis-SQL-Python-Power%20BI)
+- **Tools**: Python(Pandas), Jupyter Notebook, SQL, MySQL, Power BI
+- **Link**: [`📁 customer-behavior-analysis-SQL-Python-Power BI`](./customer-behavior-analysis-SQL-Python-Power%20BI)
 
 ### 🎬 Netflix Data Analysis with Python
 > Exploratory data analysis on 5,800+ records to uncover trends in Netflix content.  
-> **Tools**: Python (Matplotlib, Pandas, Numpy, Seaborn), Jupyter Notebook 
-> **Link**: [`📁 netflix-analysis-python`](./netflix-analysis-python)
+- **Tools**: Python (Matplotlib, Pandas, Numpy, Seaborn), Jupyter Notebook 
+- **Link**: [`📁 netflix-analysis-python`](./netflix-analysis-python)
 
 ### 🎬 Sakila SQL Analysis
 > Using Sakilla sample database to analyze customer behavior, film inventory, sales and rental patterns using structured queries.
-> **Tools**: MySQL / BigQuery, Sakila sample database 
-> **Link**: [`📁 sakila-sql-analysis`](./sakila-sql-analysis)
+- **Tools**: MySQL / BigQuery, Sakila sample database 
+- **Link**: [`📁 sakila-sql-analysis`](./sakila-sql-analysis)
 
 ---
 

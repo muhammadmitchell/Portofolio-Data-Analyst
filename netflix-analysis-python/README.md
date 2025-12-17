@@ -36,8 +36,9 @@ The analysis is designed to support **data-driven insights** that can help users
 
 Before visualization, several preprocessing steps were performed:
 
-* 
+* **Deleting unnecessary columns**:
 
+  * Delete the season and age_certification columns using the pandas df.drop() function.
 * **Identified missing values in**:
 
   * `title`

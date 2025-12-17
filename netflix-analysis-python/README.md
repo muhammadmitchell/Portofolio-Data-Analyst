@@ -16,7 +16,7 @@ The analysis is designed to support **data-driven insights** that can help users
 
   * Python
   * Google Colab
-  * Pandas, Matplotlib, Seaborn
+  * Pandas, Matplotlib, Seaborn, Numpy
 
 ### Columns Included:
 

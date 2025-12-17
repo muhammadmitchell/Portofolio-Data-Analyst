@@ -91,7 +91,7 @@ An interactive Power BI dashboard was built to visualize insights:
 
 * Donut chart: Customer distribution by Subscription Status
 * Clustered column chart: Revenue & Sales by Category
-* Clustered bar chart: Revenue by Age Group
+* Clustered bar chart: Revenue & Sales by Age Group
 
 **Interactivity:**
 

@@ -8,6 +8,14 @@ The analysis is designed to support **data-driven insights** that can help users
 
 ---
 
+## 📁 File Included
+
+- [netflix-analysis-python/Netflix Movies & Shows Data Visualization (2022).ipynb](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/main/netflix-analysis-python/Netflix%20Movies%20%26%20Shows%20Data%20Visualization%20(2022).ipynb) — Python Code for Data Preprocessing, Analysis, and Visualizations
+- [Projek Visualisasi Data Neflix Movie and Show Muhammad Mitchell.pdf](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/main/netflix-analysis-python/Projek%20Visualisasi%20Data%20Netflix%20Movie%20and%20Show%20Muhammad%20Mitchell.pdf) — Documentation about the analysis
+- [imdb_movies_shows.csv](https://github.com/muhammadmitchell/Portofolio-Data-Analyst/blob/main/netflix-analysis-python/imdb_movies_shows.csv) — Raw data Netflix movies & shows
+
+---
+
 ## 📊 Dataset Information
 
 * **Source**: Kaggle – Netflix Movies & Shows dataset
